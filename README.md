@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi! I'm Maija 
+
+I'm an aspiring software developer, a recent CS graduate, and a lover of all things creative.
+
+# I have experience with ...
+  - C++
+  - Python
+  - JavaScript
+  - HTML5
+  - CSS3
+  - React
+  - Bootstrap
+  - MySQL
+  - Supabase
+  - Node.js
+  - RESTful API's
+  - Docker
+  - Linux
+  - Git
+  - GitHub
+  - CI/CD pipelines
+
+# I'm currently learning ...
+  - TypeScript
 
 <!--
 **maijagrimes/maijagrimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
