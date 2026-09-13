@@ -11,14 +11,14 @@
         .tagline {
         font-family: Helvetica Neue;
         font-size: 1.5rem;
-        fill: #f6c453;
+        fill: rgb(239, 212, 227);
         }
 
         /* auto dark/light adjust based on the viewer's system theme */
         @media (prefers-color-scheme: dark) {
         .bg { fill: rgb(198, 114, 158); }
         .name { fill: #2b2438; }
-        .tagline { fill: #b8842f; }
+        .tagline { fill: #7c3057; }
         }
     </style>
 
